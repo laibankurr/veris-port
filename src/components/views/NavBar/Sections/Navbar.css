@@ -1,0 +1,61 @@
+@import "~antd/dist/antd.css";
+
+.menu {
+  padding: 0 20px;
+  border-bottom: solid 1px #e8e8e8;
+  overflow: auto;
+  box-shadow: 0 0 30px #f3f1f1;
+  background-color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu__logo {
+  width: 80px;
+  float: left;
+}
+
+.menu__logo a {
+  display: inline-block;
+  font-size: 20px;
+  padding: 19px 20px;
+}
+
+.menu__container .ant-menu-item {
+  padding: 0px 5px;
+}
+
+.menu__container .ant-menu-submenu-title {
+  padding: 10px 20px;
+}
+
+.menu__container .ant-menu-item a,
+.menu__container .ant-menu-submenu-title a {
+  padding: 10px 15px;
+}
+
+.menu__container .ant-menu-horizontal {
+  border-bottom: none;
+}
+
+.drawer_button {
+  float: right;
+  height: 32px;
+  padding: 6px;
+  margin-top: 16px;
+}
+
+.menu_drawer .ant-drawer-header {
+  padding: 14px 24px !important;
+  margin-left: -5px;
+}
+
+.menu_drawer .ant-drawer-body {
+  padding: 0 !important;
+}
+
+.list-unstyled {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
