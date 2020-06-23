@@ -4,7 +4,8 @@
 
 <hr/>
 
-# 
+# Production Overview
+
 This project is based on React. The design parts, such as buttons and icons, carousel were constructed using Ant Design, a react design UI library. Also, css was expressed using styled components.
 
 Used skill
@@ -12,6 +13,12 @@ Used skill
 - HTML
 - CSS
 - javaScript
+
+<hr/>
+
+# Description
+
+When you first access the website, only the button is displayed, and when you move the cursor over the button, the detailed image appears and the details box appears. If you move the mouse away, the pop-up disappears, but the image moves to show an example. Click the drop-down button on the top right to view the creator's information.
 
 <hr/>
 
