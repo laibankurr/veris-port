@@ -17,7 +17,7 @@ Used skill
 
 # Website
 
-[veris's react project](http:// ec2-3-19-237-147.us-east-2.compute.amazonaws.com)
+[veris's react project](http://ec2-3-19-237-147.us-east-2.compute.amazonaws.com)
 
 <hr/>
 
