@@ -15,8 +15,10 @@ Used skill
 
 <hr/>
 
-# [Website Address](http:// ec2-3-19-237-147.us-east-2.compute.amazonaws.com)
+# Website
+
+http:// ec2-3-19-237-147.us-east-2.compute.amazonaws.com
 
 <hr/>
 
-### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
